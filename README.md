@@ -1,7 +1,7 @@
 # MathSession
 
 <p>/problem/:operator/:digits</p>
-<p>/solve/:solution</p>
+<p>/solution/:answer</p>
 
 ```
 http://localhost:3000/problem/add/4
